@@ -1,0 +1,9 @@
+export const ORDER = 'ORDER';
+export const ORDER_TRIP = 'ORDER_TRIP';
+export const ORDER_TIME = 'ORDER_TIME';
+export const CANCEL = 'CANCEL';
+export const ACCEPT = 'ACCEPT';
+export const ORDER_LATER = 'ORDER_LATER';
+export const LATER_COUNT = 'LATER_COUNT';
+export const PAYED = 'PAYED';
+export const DONE = 'DONE';
